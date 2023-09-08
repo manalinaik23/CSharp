@@ -1,0 +1,15 @@
+C:\Users\10673563\OneDrive - LTI\ASP.NET Core\C#\Left Outer Join\LeftOuterJoin\LeftOuterJoin\obj\Debug\net6.0\LeftOuterJoin.csproj.AssemblyReference.cache
+C:\Users\10673563\OneDrive - LTI\ASP.NET Core\C#\Left Outer Join\LeftOuterJoin\LeftOuterJoin\obj\Debug\net6.0\LeftOuterJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10673563\OneDrive - LTI\ASP.NET Core\C#\Left Outer Join\LeftOuterJoin\LeftOuterJoin\obj\Debug\net6.0\LeftOuterJoin.AssemblyInfoInputs.cache
+C:\Users\10673563\OneDrive - LTI\ASP.NET Core\C#\Left Outer Join\LeftOuterJoin\LeftOuterJoin\obj\Debug\net6.0\LeftOuterJoin.AssemblyInfo.cs
+C:\Users\10673563\OneDrive - LTI\ASP.NET Core\C#\Left Outer Join\LeftOuterJoin\LeftOuterJoin\obj\Debug\net6.0\LeftOuterJoin.csproj.CoreCompileInputs.cache
+C:\Users\10673563\OneDrive - LTI\ASP.NET Core\C#\Left Outer Join\LeftOuterJoin\LeftOuterJoin\bin\Debug\net6.0\LeftOuterJoin.exe
+C:\Users\10673563\OneDrive - LTI\ASP.NET Core\C#\Left Outer Join\LeftOuterJoin\LeftOuterJoin\bin\Debug\net6.0\LeftOuterJoin.deps.json
+C:\Users\10673563\OneDrive - LTI\ASP.NET Core\C#\Left Outer Join\LeftOuterJoin\LeftOuterJoin\bin\Debug\net6.0\LeftOuterJoin.runtimeconfig.json
+C:\Users\10673563\OneDrive - LTI\ASP.NET Core\C#\Left Outer Join\LeftOuterJoin\LeftOuterJoin\bin\Debug\net6.0\LeftOuterJoin.dll
+C:\Users\10673563\OneDrive - LTI\ASP.NET Core\C#\Left Outer Join\LeftOuterJoin\LeftOuterJoin\bin\Debug\net6.0\LeftOuterJoin.pdb
+C:\Users\10673563\OneDrive - LTI\ASP.NET Core\C#\Left Outer Join\LeftOuterJoin\LeftOuterJoin\obj\Debug\net6.0\LeftOuterJoin.dll
+C:\Users\10673563\OneDrive - LTI\ASP.NET Core\C#\Left Outer Join\LeftOuterJoin\LeftOuterJoin\obj\Debug\net6.0\refint\LeftOuterJoin.dll
+C:\Users\10673563\OneDrive - LTI\ASP.NET Core\C#\Left Outer Join\LeftOuterJoin\LeftOuterJoin\obj\Debug\net6.0\LeftOuterJoin.pdb
+C:\Users\10673563\OneDrive - LTI\ASP.NET Core\C#\Left Outer Join\LeftOuterJoin\LeftOuterJoin\obj\Debug\net6.0\LeftOuterJoin.genruntimeconfig.cache
+C:\Users\10673563\OneDrive - LTI\ASP.NET Core\C#\Left Outer Join\LeftOuterJoin\LeftOuterJoin\obj\Debug\net6.0\ref\LeftOuterJoin.dll
